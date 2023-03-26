@@ -1,4 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adarsha C R ===================================================================================================================================  Senior Software Engineer ------------------------  Developer with 4.5 years of experience in Backend Java Development.  * 🌍  I'm based in Bengaluru, India * ✉️  You can contact me at [adarshacr001@gmail.com](mailto:adarshacr001@gmail.com) * 🧠  I'm learning MongoDB * 🤝  I'm open to collaborating on projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adarsha C R
+===================================================================================================================================
+
+Senior Software Engineer
+------------------------
+
+Developer with 4.5 years of experience in Backend Java Development.
+
+*   🌍  I'm based in Bengaluru, India
+*   ✉️  You can contact me at [adarshacr001@gmail.com](mailto:adarshacr001@gmail.com)
+*   🧠  I'm learning MongoDB
+*   🤝  I'm open to collaborating on projects
 
 ### Skills  
 
